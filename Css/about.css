@@ -29,7 +29,7 @@
     .r1,
     .r3 {
       display: grid;
-      background-color: #CCC;
+      background-color:#9BC1BC;
       padding: 1em;
       align-items: center;
     }
@@ -50,12 +50,12 @@
       min-width: 200px;
     }
     .c1, .c3 {
-      background-color: #f4f4f4;
+      background-color:  #F4F1BB;
     }
     .txt-center {
       text-align: center;
       margin: 15px auto 0px;
-      border-bottom: 1px solid #a8a7a7;
+      border-bottom: 1px solid #E6EBE0;
       padding-bottom: 15px;
     }
     .left-nav {
@@ -64,13 +64,13 @@
     .left-nav > li > a {
       display: block;
       padding:15px 0px 15px 30px;
-      background-color: #f4f4f4;
+      background-color:  #F4F1BB;
       font-weight: bold;
       text-decoration: none;
       transition-duration: 0.7s;
     }
     .left-nav > li > a:hover {
-      background-color: #8d8c8c;
+      background-color:#E6EBE0;
     }
     .c2 {
       padding: 40px 20%;
